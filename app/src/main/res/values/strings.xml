@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Devfest</string>
+    <string name="maps">AIzaSyAGUSgCxs_i6P9w0Hz-6FO_viy5wy53KcE</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_advice">Know Your Rights</string>
+    <string name="title_map">Map</string>
+    <string name="title_Preferences">Preferences</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
